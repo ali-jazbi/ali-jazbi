@@ -1,5 +1,58 @@
-# 💫 About Me:
-👋 Hi, I’m @ali-jazbi<br>🖥Front-End Development<br>👀 I am interested in learning and developing new skills in this field HTML 5 , Css 3 , Bootstrap5.3 ...<br>📖 Learning new skills makes me feel joyful and I believe that learning is an ongoing process<br>🌱 I’m currently learning JavaScript
+### 🚀 **Ali Jazbi - GitHub Profile** 🚀  
+
+Welcome to my **GitHub profile**! I'm **Ali Jazbi**, a front-end enthusiast and an aspiring JavaScript developer. For the past **2 years**, I’ve focused on **static web development** and UI design using **HTML**, **CSS**, and **Bootstrap**. Recently, I started my journey into **professional JavaScript development** to level up my skills! 🎯  
+
+---
+
+### 🧩 **About Me** 🧩  
+👨‍💻 **Full Name**: Ali Jazbi  
+💼 **Background**: 2 years of experience in **static web design**.  
+🎯 **Goal**: Master JavaScript and modern front-end frameworks like **React**.  
+📚 **Current Learning**: Jonas Schmedtmann's **JavaScript Course** on Udemy.  
+
+---
+
+### 🛠️ **Skills** 🛠️  
+✅ **Static Design**: HTML, CSS, Bootstrap  
+✅ **UI Design**: Clean and responsive interfaces  
+✅ **JavaScript**: DOM manipulation, event handling (in progress 🚀)  
+
+---
+
+### 🎓 **Current Focus** 🎓  
+I'm currently investing my time in:  
+- 🚀 **Mastering JavaScript** (Jonas Schmedtmann’s course)  
+- 🌐 Learning **React.js** for modern front-end development  
+
+---
+
+### 🌟 **My Goals** 🌟  
+- Build responsive, interactive, and dynamic web applications  
+- Contribute to open-source projects and collaborate with developers  
+- Transition into professional front-end development  
+
+---
+
+### 🖌️ **CodePen Portfolio** 🖌️  
+Check out some of my experiments and front-end work on **CodePen**:  
+🔗 [**My CodePen Profile**](https://codepen.io/) *(Add your CodePen link here)*  
+
+---
+
+### 📫 **Let’s Connect** 📫  
+If you're on a similar journey or have suggestions for my projects, I'd love to connect:  
+- **LinkedIn**: *Coming Soon!*  
+- **GitHub**: You’re already here! Explore my repositories.  
+- **Email**: ali.jazbi@example.com  
+
+---
+
+### 💡 **Quote I Live By** 💡  
+> *"The expert in anything was once a beginner."*  
+
+---
+
+🎉 **Thanks for stopping by!** Feel free to **⭐ star** my repositories, share feedback, or simply say hello. Your support helps me grow! 😊 🚀  
 
 
 ## 🌐 Socials:
