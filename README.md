@@ -1,10 +1,11 @@
-#### 🚀 **Ali Jazbi** 🚀  
-
-Welcome to my **GitHub profile**! I'm **Ali Jazbi**, a front-end enthusiast and an aspiring JavaScript developer. For me, the past two years have been a fantastic experience in **static web development** and UI designing using **HTML**, **CSS**, and **Bootstrap**. Recently, I stepped into the world of **professional JavaScript development** to upskill myself! 🎯  
+# 💻 **Ali Jazbi** 💻  
 
 ---
 
-### 🧩 **About Me** 🧩  
+## 💫 About Me:  
+
+  Welcome to my **GitHub profile**! I'm **Ali Jazbi**, a front-end enthusiast and an aspiring JavaScript developer. For me, the past two years have been a fantastic experience in **static web development** and UI   designing using **HTML**, **CSS**, and **Bootstrap**. Recently, I stepped into the world of **professional JavaScript development** to upskill myself! 🎯  
+  
 👨‍💻 **Full Name**: Ali Jazbi  
 💼 **Background**: 2 years of experience in **static web design**.  
 🎯 **Goal**: Master JavaScript and modern front-end frameworks like **React**.  
@@ -12,37 +13,38 @@ Welcome to my **GitHub profile**! I'm **Ali Jazbi**, a front-end enthusiast and 
 
 ---
 
-### 🛠️ **Skills** 🛠️  
+## 🛠️ **Skills** 🛠️  
 ✅ **Static Design**: HTML, CSS, Bootstrap  
 ✅ **UI Design**: Clean and responsive interfaces  
 ✅ **JavaScript**: DOM manipulation, event handling (in progress 🚀)  
 
 ---
 
-### 🎓 **Current Focus** 🎓  
+## 🎓 **Current Focus** 🎓  
 I am currently spending time on:  
 - 🚀 **Master JavaScript** (Jonas Schmedtmann’s course)  
 - 🌐 Learning **React.js** for modern front-end development  
 
 ---
 
-### 🌟 **My Goals** 🌟  
+## 🌟 **My Goals** 🌟  
 - Build responsive, interactive, and dynamic web applications  
 - Contribute to open-source projects and collaborate with developers  
 - Transition into professional front-end development  
 
 ---
 
-### 🖌️ **CodePen Portfolio** 🖌️  
+## 🖌️ **CodePen Portfolio** 🖌️  
 Visit some of my experiments and front-end work on **CodePen**:  
 🔗 [**My CodePen Profile**](https://codepen.io/alijazbi)  
 
 ---
 
-### 📫 **Let’s Connect** 📫  
-For those on a similar trip or have recommendations for projects, let's connect:  
-- **LinkedIn**: *[Link](https://www.linkedin.com/in/ali-jazbi/)*  
-- **Email**: ali.jazbi@yahoo.com  
+## 🌐 Socials:  
+For those on a similar journey or with project recommendations, let’s connect:  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-jazbi)  
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:ali.jazbi@yahoo.com)  
 
 
 # 💻 Tech Stack:
