@@ -1,6 +1,6 @@
-### 🚀 **Ali Jazbi - GitHub Profile** 🚀  
+#### 🚀 **Ali Jazbi** 🚀  
 
-Welcome to my **GitHub profile**! I'm **Ali Jazbi**, a front-end enthusiast and an aspiring JavaScript developer. For the past **2 years**, I’ve focused on **static web development** and UI design using **HTML**, **CSS**, and **Bootstrap**. Recently, I started my journey into **professional JavaScript development** to level up my skills! 🎯  
+Welcome to my **GitHub profile**! I'm **Ali Jazbi**, a front-end enthusiast and an aspiring JavaScript developer. For me, the past two years have been a fantastic experience in **static web development** and UI designing using **HTML**, **CSS**, and **Bootstrap**. Recently, I stepped into the world of **professional JavaScript development** to upskill myself! 🎯  
 
 ---
 
@@ -20,8 +20,8 @@ Welcome to my **GitHub profile**! I'm **Ali Jazbi**, a front-end enthusiast and 
 ---
 
 ### 🎓 **Current Focus** 🎓  
-I'm currently investing my time in:  
-- 🚀 **Mastering JavaScript** (Jonas Schmedtmann’s course)  
+I am currently spending time on:  
+- 🚀 **Master JavaScript** (Jonas Schmedtmann’s course)  
 - 🌐 Learning **React.js** for modern front-end development  
 
 ---
@@ -34,29 +34,16 @@ I'm currently investing my time in:
 ---
 
 ### 🖌️ **CodePen Portfolio** 🖌️  
-Check out some of my experiments and front-end work on **CodePen**:  
-🔗 [**My CodePen Profile**](https://codepen.io/) *(Add your CodePen link here)*  
+Visit some of my experiments and front-end work on **CodePen**:  
+🔗 [**My CodePen Profile**](https://codepen.io/alijazbi)  
 
 ---
 
 ### 📫 **Let’s Connect** 📫  
-If you're on a similar journey or have suggestions for my projects, I'd love to connect:  
-- **LinkedIn**: *Coming Soon!*  
-- **GitHub**: You’re already here! Explore my repositories.  
-- **Email**: ali.jazbi@example.com  
+For those on a similar trip or have recommendations for projects, let's connect:  
+- **LinkedIn**: *[Link](https://www.linkedin.com/in/ali-jazbi/)*  
+- **Email**: ali.jazbi@yahoo.com  
 
----
-
-### 💡 **Quote I Live By** 💡  
-> *"The expert in anything was once a beginner."*  
-
----
-
-🎉 **Thanks for stopping by!** Feel free to **⭐ star** my repositories, share feedback, or simply say hello. Your support helps me grow! 😊 🚀  
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-jazbi) 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -67,9 +54,6 @@ If you're on a similar journey or have suggestions for my projects, I'd love to 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ali-jazbi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ali-jazbi&icon=0&color=0)](https://visitcount.itsvg.in)
