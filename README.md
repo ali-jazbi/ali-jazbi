@@ -67,6 +67,13 @@ Responsive Design, Component-Based Architecture, Git & GitHub
 
 ---
 
+<br>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ali-jazbi/ali-jazbi/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ali-jazbi/ali-jazbi/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 ## 🏆 GitHub Trophies  
 ![](https://github-profile-trophy.vercel.app/?username=ali-jazbi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
