@@ -1,84 +1,70 @@
-# 💻 **Ali Jazbi** 💻  
+<div align="center">
+
+# Ali Jazbi
+
+**Frontend-Focused Full-Stack Developer**
+
+Building practical, maintainable web applications — from responsive interfaces to backend APIs.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-jazbi/)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-374151?style=flat-square&logo=gmail&logoColor=white)](mailto:ali.jazbi@yahoo.com)
+
+</div>
 
 ---
 
-## 💫 About Me:
+### About me
 
-Hi! I'm **Ali Jazbi**, an **End-to-End Web Developer** specializing in building modern, scalable, and full-stack web applications.  
+I'm a full-stack developer with a **strong frontend background**, focused on building intuitive interfaces and reliable web applications with **React, Next.js, and TypeScript**.
 
-I started my journey with **HTML, CSS, and JavaScript**, focusing on creating clean, responsive, and interactive user interfaces. Today, I build complete web solutions using **React.js**, **Next.js**, **Node.js**, and **Express.js**, covering both frontend development and backend services.  
+Professionally, I've worked on **healthcare dashboards and web applications** for projects associated with **Shahid Beheshti University of Medical Sciences** at **Dotr**. My work spans frontend development, API integration, and backend services built with **Node.js and Express.js**.
 
-I have experience developing RESTful APIs, implementing authentication systems, working with databases, and deploying applications on both **Linux** and **Windows servers** using technologies like **IIS** and **PM2**.  
+I also took responsibility for the **complete redesign of an e-commerce storefront and its admin dashboard** at **Parin Sanat**, with an emphasis on responsive layouts, consistent UI, and usability.
 
-I’m passionate about writing clean code, improving application architecture, learning modern technologies, and building reliable products from idea to deployment.  
+### Experience highlights
 
-👨‍💻 **Full Name**: Ali Jazbi  
-💼 **Role**: End-to-End Web Developer  
-🌍 **Location**: Iran  
-📬 **Email**: ali.jazbi@yahoo.com  
+| Area | What I've worked on |
+| --- | --- |
+| **Healthcare applications** | Interactive dashboards, data-driven interfaces, and API-integrated web applications. |
+| **E-commerce** | End-to-end frontend redesign of a storefront and its administration panel. |
+| **Backend development** | RESTful API development, authentication flows, and server-side features using Node.js and Express.js. |
+| **Deployment** | Deploying and troubleshooting web applications on Windows and Linux environments, including IIS and PM2. |
 
----
+### Tech stack
 
-## 🛠️ **Skills**
+**Frontend**
 
-✅ **Frontend Development**  
-HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js, Next.js, Tailwind CSS, Material UI, Ant Design, Bootstrap  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 
-✅ **Backend Development**  
-Node.js, Express.js, REST APIs, JWT Authentication, API Development, Backend Architecture  
+**Backend & data**
 
-✅ **Database**  
-SQL Server, MongoDB  
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-✅ **Deployment & DevOps**  
-Linux Server Deployment, Windows Server Deployment, IIS, PM2, Git, GitHub, SSL Configuration  
+**UI & styling**
 
-✅ **Other Skills**  
-Responsive Design, Component-Based Architecture, Full-Stack Application Development, Clean Code Principles  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
----
+**Tools & deployment**
 
-## 🌐 Socials  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![IIS](https://img.shields.io/badge/IIS-0078D4?style=flat-square&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-jazbi)  
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:ali.jazbi@yahoo.com)  
+### Let's connect
 
----
+I'm interested in opportunities to build useful web products, especially projects involving **React, Next.js, and full-stack JavaScript/TypeScript development**.
 
-# 💻 Tech Stack:
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![Next JS](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Material UI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)  
-![Ant Design](https://img.shields.io/badge/AntDesign-%230170FE.svg?style=for-the-badge&logo=ant-design&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![IIS](https://img.shields.io/badge/IIS-%230078D7.svg?style=for-the-badge&logo=windows&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)  
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=ali-jazbi&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ali-jazbi&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-jazbi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ali-jazbi/ali-jazbi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ali-jazbi/ali-jazbi/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ali-jazbi/ali-jazbi/output/github-contribution-grid-snake.svg">
-</picture>
+**[LinkedIn](https://www.linkedin.com/in/ali-jazbi/)** · **[Email](mailto:ali.jazbi@yahoo.com)**
